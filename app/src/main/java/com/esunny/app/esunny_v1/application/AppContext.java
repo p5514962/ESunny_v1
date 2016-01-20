@@ -11,4 +11,5 @@ import android.app.Application;
  * @date
  */
 public class AppContext extends Application {
+
 }
